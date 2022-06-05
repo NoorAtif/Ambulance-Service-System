@@ -1,4 +1,4 @@
-# Ambulance-System
+# Ambulance-Service-System
 DSA Final Project Using Java
 
 Implemented Dijikstra's Algorithm For Shortest Path
