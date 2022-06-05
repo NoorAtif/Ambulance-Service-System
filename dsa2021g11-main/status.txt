@@ -1,0 +1,19 @@
+Completed Tasks:
+
+  GUI Integration
+  CRUD Operations With Table Model (Linked List   Code Commented Due to Errors)
+  Graph Implemented
+  Dikstra's Algorithm Added To Some Extent
+
+Not Completed Tasks:
+
+  Linked List Handling
+  BST For Searching
+  Proper Data Reading
+  Calling Functions
+
+Tasks That Could Be Improved:
+
+  CRUD Operations
+  Graph
+  More Data Structures Could Be Implemented
